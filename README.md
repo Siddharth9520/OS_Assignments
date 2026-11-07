@@ -1,28 +1,26 @@
 # 💻 Operating Systems – Assignments
 
-\<p align="center">
-&#x20; \<strong>A comprehensive collection of Operating Systems practical assignments implemented in C++.\</strong>
-\</p>
+**A comprehensive collection of Operating Systems practical assignments implemented in C++.**
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge\&logo=cplusplus\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Domain-Operating%20Systems-0A66C2?style=for-the-badge](https://img.shields.io/badge/Domain-Operating%20Systems-0A66C2?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Active-success?style=for-the-badge](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge\&logo=windows\&logoColor=white)" />
-\</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Domain-Operating%20Systems-0A66C2?style=for-the-badge" alt="Operating Systems">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active">
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
 
 ---
 
 ## 🎓 Student Details
 
-| Field             | Details                                             |
-| ----------------- | --------------------------------------------------- |
-| **Name**          | Siddharth Kumbhar                                   |
-| **PRN**           | 202501110143                                        |
-| **Program**       | B.Tech – Computer Science and Engineering (AI & ML) |
-| **Academic Year** | 2026–27                                             |
-| **Institution**   | MIT Academy of Engineering                          |
-| **Repository**    | Operating Systems – Practical Assignments           |
+| Field | Details |
+|:---|:---|
+| **Name** | Siddharth Kumbhar |
+| **PRN** | 202501110143 |
+| **Program** | B.Tech – Computer Science and Engineering (AI & ML) |
+| **Academic Year** | 2026–27 |
+| **Institution** | MIT Academy of Engineering |
+| **Subject** | Operating Systems |
 
 ---
 
@@ -30,9 +28,9 @@
 
 This repository contains a structured collection of **Operating Systems (OS) practical assignments** developed using C++. It focuses on implementing and understanding fundamental Operating System concepts through practical programming, algorithm development, and system-level problem-solving.
 
-The repository covers important OS topics such as CPU scheduling, multithreading, process synchronization, resource allocation, deadlock avoidance, memory management, and page replacement.
+The repository explores important OS topics such as CPU scheduling, multithreading, process management, resource allocation, deadlock avoidance, memory management, and page replacement.
 
-Each assignment is designed to strengthen programming fundamentals while providing hands-on experience with the algorithms and mechanisms used by modern operating systems.
+Each assignment is designed to strengthen programming fundamentals while providing hands-on experience with algorithms and mechanisms used in modern operating systems.
 
 ## 🎯 Objectives
 
@@ -45,89 +43,81 @@ Each assignment is designed to strengthen programming fundamentals while providi
 
 ## 📚 Assignment Index
 
-| Assignment    | Program / Topic                                      | Key Concepts                               |
-| ------------- | ---------------------------------------------------- | ------------------------------------------ |
-| Assignment 01 | AI Task Scheduler                                    | CPU Scheduling, Scheduling Algorithms      |
-| Assignment 02 | Multithreaded Student Performance Processing         | Multithreading, Concurrency                |
-| Assignment 03 | OS Practical Implementation                          | Refer to source code                       |
-| Assignment 04 | Banker's Algorithm                                   | Deadlock Avoidance, Resource Allocation    |
-| Assignment 05 | Virtual Memory and Page Replacement for ML Workloads | Virtual Memory, Paging, FIFO, LRU, Optimal |
+| Assignment | Program / Topic | Key Concepts |
+|:---:|---|---|
+| 01 | AI Task Scheduler | CPU Scheduling, Scheduling Algorithms |
+| 02 | Multithreaded Student Performance Processing | Multithreading, Concurrency |
+| 03 | OS Practical Implementation | Refer to source code |
+| 04 | Banker's Algorithm | Deadlock Avoidance, Resource Allocation |
+| 05 | Virtual Memory and Page Replacement for ML Workloads | Virtual Memory, Paging, FIFO, LRU, Optimal |
 
-## ⚙️ Concepts & Technologies Covered
+## ⚙️ Concepts Covered
 
 ### 1. Process Management
+- Process scheduling
+- CPU scheduling algorithms
+- Scheduling strategies and performance analysis
 
-- Process scheduling.
-- CPU scheduling algorithms.
-- Scheduling strategies and performance analysis.
-
-### 2. Multithreading & Concurrency
-
-- Multithreaded programming.
-- Concurrent task execution.
-- Thread-based processing.
+### 2. Multithreading and Concurrency
+- Multithreaded programming
+- Concurrent task execution
+- Thread-based processing
 
 ### 3. Deadlock Management
-
-- Resource allocation.
-- Banker's Algorithm.
-- Deadlock avoidance and safe-state analysis.
+- Resource allocation
+- Banker's Algorithm
+- Deadlock avoidance and safe-state analysis
 
 ### 4. Memory Management
-
-- Memory hierarchy.
-- Virtual memory.
-- Paging and physical memory frames.
-- Page faults and page hits.
-- Page replacement algorithms.
+- Memory hierarchy
+- Virtual memory
+- Paging and physical memory frames
+- Page faults and page hits
+- Page replacement algorithms
 
 ### 5. Page Replacement Algorithms
-
-- FIFO (First-In First-Out).
-- LRU (Least Recently Used).
-- Optimal Page Replacement.
+- FIFO (First-In First-Out)
+- LRU (Least Recently Used)
+- Optimal Page Replacement
 
 ## 🛠️ Technology Stack
 
-| Technology         | Purpose                                    |
-| ------------------ | ------------------------------------------ |
-| C++                | Core programming language                  |
-| STL                | Data structures and utilities              |
-| GCC / MinGW        | Compilation                                |
-| Visual Studio Code | Development environment                    |
-| Git & GitHub       | Version control and source code management |
+| Technology | Purpose |
+|---|---|
+| C++ | Core programming language |
+| STL | Data structures and utilities |
+| GCC / MinGW | Compilation |
+| Visual Studio Code | Development environment |
+| Git & GitHub | Version control and source code management |
 
 ## 🚀 Getting Started
 
-Follow these steps to run the practical programs locally.
-
 ### Prerequisites
+- C++ compiler (GCC / MinGW)
+- Visual Studio Code or any C++ compatible IDE
+- Git installed on your system
 
-- C++ compiler (GCC / MinGW).
-- Visual Studio Code or any C++ compatible IDE.
-- Git installed on your system.
-
-### Clone the Repository
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-```
-
-### Navigate to the Project Directory
+### 1. Clone the Repository
 
 ```bash
-cd <YOUR_REPOSITORY_NAME>
+git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-### Compile a Program
+### 2. Navigate to the Project Directory
 
-For example, to compile Assignment 05:
+```bash
+cd YOUR_REPOSITORY_NAME
+```
+
+### 3. Compile a Program
+
+Example: Assignment 05
 
 ```bash
 g++ Assignment05.cpp -o Assignment05
 ```
 
-### Execute the Program
+### 4. Execute the Program
 
 **Windows:**
 
@@ -141,7 +131,7 @@ g++ Assignment05.cpp -o Assignment05
 ./Assignment05
 ```
 
-For other assignments, replace the filename with the corresponding source file.
+Replace the filename with the corresponding assignment source file when running other programs.
 
 ## 📂 Repository Structure
 
@@ -170,13 +160,12 @@ Through these practical assignments, this repository demonstrates:
 
 ## 🎓 Academic Context
 
-**Subject:** Operating Systems
-
-**Program:** B.Tech – Computer Science and Engineering (AI & ML)
-
-**Institution:** MIT Academy of Engineering
-
-**Academic Year:** 2026–27
+| Field | Details |
+|---|---|
+| **Subject** | Operating Systems |
+| **Program** | B.Tech – Computer Science and Engineering (AI & ML) |
+| **Institution** | MIT Academy of Engineering |
+| **Academic Year** | 2026–27 |
 
 This repository is maintained as part of academic coursework and practical learning.
 
@@ -184,21 +173,17 @@ This repository is maintained as part of academic coursework and practical learn
 
 **Siddharth Kumbhar**
 
-B.Tech – Computer Science and Engineering (AI & ML)
+B.Tech – Computer Science and Engineering (AI & ML)  
 MIT Academy of Engineering
 
-\<p>
-&#x20; \<a href="[https://github.com/Siddharth9520](https://github.com/Siddharth9520)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Siddharth9520-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Siddharth9520-black?style=for-the-badge\&logo=github)" />
-&#x20; \</a>
-\</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Siddharth9520-black?style=for-the-badge&logo=github)](https://github.com/Siddharth9520)
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Learning Operating Systems Through Code, Logic & Implementation.\</strong>
-\</p>
+<p align="center">
+  <strong>Learning Operating Systems Through Code, Logic & Implementation.</strong>
+</p>
 
-\<p align="center">
-&#x20; ⭐ If you find this repository useful, consider giving it a star!
-\</p>
+<p align="center">
+  ⭐ If you find this repository useful, consider giving it a star!
+</p>
